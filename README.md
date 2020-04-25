@@ -11,3 +11,5 @@ insurance_part2_data            ---> CART-Random Forest and Artificial Neural Ne
 cubic_zirconia.csv              ---> Linear Regression
 
 Holiday_Package.csv             ---> Logistics Regression and LDA 
+
+Google_Stock_Price.csv          ---> Recurrent Neural Networks

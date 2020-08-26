@@ -13,3 +13,7 @@ cubic_zirconia.csv              ---> Linear Regression
 Holiday_Package.csv             ---> Logistics Regression and LDA 
 
 Google_Stock_Price.csv          ---> Recurrent Neural Networks
+
+Election.csv                    ----> ML-Project-Exit poll
+
+Rose.csv                        -----> Timeseries_Project_Rose
